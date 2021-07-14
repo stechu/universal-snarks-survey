@@ -14,6 +14,7 @@ Currently, three concrete constructions are considered state-of-art:
    * [KZG10](https://www.iacr.org/archive/asiacrypt2010/6477178/6477178.pdf)
    * [Sonic's KZG Variant (section 6.2 of Sonic)](https://eprint.iacr.org/2019/099.pdf)
    * [Batching KZG (section 3 of Plonk paper, based on KZG and Sonics' PC)](https://eprint.iacr.org/2019/953.pdf)
+   * [Marlin's PC (section 6 of Marlin paper, need more work to compare)](https://eprint.iacr.org/2019/1047.pdf)
 
 2. Recursive SNARKs and PCD
    * [Halo Infinite: Recursive zk-SNARKs from any Additive Polynomial Commitment Scheme](https://eprint.iacr.org/2020/1536)
