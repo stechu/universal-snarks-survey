@@ -1,7 +1,7 @@
 Snark Friendly Curves
 =====================
 
-There are two promising solutions with good performance and security trade-off (BN is not considered for the security concern brought by NFV attacks).
+There are two promising solutions with good performance and security trade-off (BN is not considered for the security concern brought by [the NFS attack](https://eprint.iacr.org/2015/1027.pdf)).
 
 1. BLS381 + Bandersnatch
 This uses Bandersnatch replaces the commonly used Jubjub, with faster scalar multiplication speed. 
