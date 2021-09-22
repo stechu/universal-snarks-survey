@@ -26,3 +26,6 @@ Currently, three concrete constructions are considered state-of-art:
 
 4. Proving Techniques (for security proofs)
    * [Algebraic Group Model](https://eprint.iacr.org/2017/620.pdf)
+
+5. Turbo Ploank 
+   * [Turbo Plonk](https://docs.zkproof.org/pages/standards/accepted-workshop3/proposal-turbo_plonk.pdf)
